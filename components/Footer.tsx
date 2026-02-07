@@ -60,11 +60,12 @@ items-center justify-center">
             </li>
             <li className="flex items-center gap-3">
               <Phone className="w-4 h-4 text-orange-500" />
-              <span>(66) 99202-2292</span>
+              <span>(66) 99281 9097</span>
             </li>
             <li className="flex items-center gap-3">
               <Mail className="w-4 h-4 text-orange-500" />
-              <span>mackerlycustodio@gmail.com</span>
+              <span>mackerlycustodio@gmail.com
+</span>
             </li>
           </ul>
         </div>
