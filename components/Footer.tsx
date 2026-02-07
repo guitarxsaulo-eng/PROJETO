@@ -34,9 +34,7 @@ items-center justify-center">
         <div>
           <h4 className="text-white font-bold mb-6">Categorias</h4>
           <ul className="space-y-4 text-sm font-light">
-            <li><a href="#" className="hover:text-orange-500 transition-colors">Vegano & Vegetariano</a></li>
             <li><a href="#" className="hover:text-orange-500 transition-colors">Sobremesas Gourmet</a></li>
-            <li><a href="#" className="hover:text-orange-500 transition-colors">Pratos Rápidos</a></li>
             <li><a href="#" className="hover:text-orange-500 transition-colors">Cozinha Internacional</a></li>
           </ul>
         </div>
