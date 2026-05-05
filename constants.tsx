@@ -6,7 +6,7 @@ export const EBOOKS_DATA: Ebook[] = [
     id: '1',
     title: 'Bolos que Vendem : sua Renda Extra em Casa',
     author: 'Mackerly Custódio',
-    price: 47.00,
+    price: 29.90,
     description: 'Transforme sua Cozinha em uma Fábrica de Lucros',
     category: 'Bolos Caseiros',
     rating: 4.8,
