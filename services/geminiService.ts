@@ -1,4 +1,4 @@
-import { GoogleGenerativeAI } from "@google/generativeai";
+import { GoogleGenerativeAI } from "@google/generative-ai";
 import { Ebook } from '../types';
 
 const ai = new GoogleGenerativeAI(process.env.API_KEY || '');
